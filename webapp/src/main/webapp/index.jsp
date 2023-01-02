@@ -1,7 +1,6 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Taj DevOps Learning</h1>
-    <h2> Please register yourself:</h2>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
